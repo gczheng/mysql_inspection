@@ -1,9 +1,7 @@
 #!/bin/bash
-# mail:         zhenggc@ipanel.cn & lincm<lincm@ipanel.cn>
-# data:         2018-11-01
 # line:         V1.5
 # mail:         gczheng@139.com
-# data:         2018-12-01
+# data:         2018-12-08
 # script_name:  inspection_mysql.sh
 # Function:     MySQL巡检包含（mysqltuner.pl、inspection.conf)与inspection_mysql.sh放在同一目录下
 
