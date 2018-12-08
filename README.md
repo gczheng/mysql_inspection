@@ -15,12 +15,11 @@ bash>ll
 -rwxr-xr-x 1 root root 219803 Nov  1 11:32 mysqltuner.pl
 ```
 
-
 ##  二、下载巡检脚本
 
 * 下载地址：
 
-[Github：mysql_inspection]()
+[Github：mysql_inspection](https://github.com/gczheng/mysql_inspection)
 
 ## 三、脚本执行说明
 
